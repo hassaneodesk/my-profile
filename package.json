@@ -11,5 +11,18 @@
     "developer"
   ],
   "author": "hassane ihammouten",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassaneodesk/my-profile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hassaneodesk/my-profile/issues"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.2.1",
+    "normalize": "^0.3.1",
+    "webpack": "^3.8.1"
+  }
 }
